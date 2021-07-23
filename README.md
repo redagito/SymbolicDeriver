@@ -7,6 +7,6 @@ Functionality is limited but can be extended by adding additional node types and
 
 # TODO
 
-[] Implement the expression parser which builds node trees from formula strings
-[] Implement additional node types
-[] Unit tests
+- [ ] Implement the expression parser which builds node trees from formula strings
+- [ ] Implement additional node types
+- [ ] Unit tests
